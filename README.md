@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Práctica: Análisis de Errores de Acceso por Hora
 
 Este proyecto simula y analiza un registro de intentos de acceso al sistema de una empresa, enfocándose en los **errores por hora**.
