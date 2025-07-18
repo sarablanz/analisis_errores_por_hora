@@ -16,6 +16,19 @@ Los logs de acceso contienen información clave sobre el funcionamiento y la seg
 - **logs.txt:** Registro simulado de accesos (fecha, hora, usuario, resultado).
 - **analisis_logs.py / analisis_logs.ipynb:** Scripts en Python para analizar los errores por hora y visualizar los resultados.
 - **grafico_errores_por_hora.png:** Gráfico generado mostrando la distribución de errores.
+  
+## Herramientas y librerías utilizadas
+
+- **Python 3.8+**  
+  Lenguaje principal para el análisis y procesamiento de logs.
+- **Jupyter Notebook**  
+  Para desarrollo interactivo y visualización de resultados.
+- **matplotlib**  
+  Visualización de datos y generación de gráficos de barras.
+- **pandas (opcional)**  
+  Manipulación eficiente de datos tabulares (puedes mencionar si lo usaste).
+- **Git y GitHub**  
+  Control de versiones y hospedaje del repositorio.
 
 ## Uso del proyecto
 
