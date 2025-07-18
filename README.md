@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica: Análisis de Errores de Acceso por Hora
 
 Este proyecto simula y analiza un registro de intentos de acceso al sistema de una empresa, enfocándose en los **errores por hora**.
@@ -47,3 +48,7 @@ Este proyecto simula y analiza un registro de intentos de acceso al sistema de u
 ---
 
 **¡Comparte tu análisis y gráfica en la práctica de ciberseguridad!**
+=======
+# analisis_errores_por_hora
+Práctico de análisis de errores de acceso por hora en logs de sistemas
+>>>>>>> 56ca0c22c437a9eaffd918f212fac0b1444bc951
