@@ -30,20 +30,6 @@ Los logs de acceso contienen información clave sobre el funcionamiento y la seg
 - **Git y GitHub**  
   Control de versiones y hospedaje del repositorio.
 
-## Uso del proyecto
-
-1. Clona el repositorio.
-2. Instala la librería matplotlib si no la tienes:
-   ```
-   pip install matplotlib
-   ```
-3. Ejecuta el script:
-   ```
-   python analisis_logs.py
-   ```
-   o abre el notebook en Jupyter y ejecuta las celdas.
-4. Analiza el gráfico para descubrir en qué horarios se concentran los errores.
-
 ## Aplicaciones en Ciberseguridad
 
 - **Monitoreo proactivo de accesos y detección de anomalías**
